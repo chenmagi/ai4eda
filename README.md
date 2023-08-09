@@ -149,7 +149,7 @@ ___
 
 ___
 
-## 022. LEARNING TO SOLVE CIRCUIT-SAT:  AN UNSUPERVISED DIFFERENTIABLE APPROACH 
+### 022. LEARNING TO SOLVE CIRCUIT-SAT:  AN UNSUPERVISED DIFFERENTIABLE APPROACH 
 
 ___
 
@@ -202,7 +202,7 @@ ___
 
 ___
 
-## 030. Two-stage PCB Routing Using Polygon-based Dynamic Partitioning and MCTS 
+### 030. Two-stage PCB Routing Using Polygon-based Dynamic Partitioning and MCTS 
 
 ___
 
