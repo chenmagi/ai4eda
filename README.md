@@ -3,64 +3,64 @@
 
 ## Reference of Variational ClusterNet
 ### [1]. Routability-aware Placement Guidance Generation for Mixed-size Designs[[link]](https://www.semanticscholar.org/paper/deee203d00ffe951a26ef8ce50b6f9c1292a7a5d)
-*Chieh-Yu Cheng,Ting-Chi Wang*
+*Chieh-Yu Cheng,Ting-Chi Wang* ,
 *2023 24th International Symposium on Quality Electronic Design (ISQED)*, *2023*
 ### [2]. GraphClusNet: A Hierarchical Graph Neural Network for Recovered Circuit Netlist Partitioning[[link]](https://www.semanticscholar.org/paper/0fb48c483ed3e9e4fa58681d8df0ae0d9860c0ed)
-*Xuenong Hong,Tong Lin,Yiqiong Shi,B. Gwee*
+*Xuenong Hong,Tong Lin,Yiqiong Shi,B. Gwee* ,
 *IEEE Transactions on Artificial Intelligence*, *2023*
 ### [3]. An Overview of Advanced Deep Graph Node Clustering[[link]](https://www.semanticscholar.org/paper/86b49189f0d927e846c4ce97c0f27e28e2880dae)
-*Shiping Wang,Jinbin Yang,J. Yao,Yang Bai,William Zhu*
+*Shiping Wang,Jinbin Yang,J. Yao,Yang Bai,William Zhu* ,
 *IEEE Transactions on Computational Social Systems*, *2023*
 ### [4]. A Multi-Objective Optimization Algorithm Based on Deep Learning for Circuit Partition[[link]](https://www.semanticscholar.org/paper/ec13485bd0c240b4232a3a346cc537fbbb70976a)
-*Yonggan Cui,Zheng Xiao,Fan Wu,Kuan-Ching Li*
+*Yonggan Cui,Zheng Xiao,Fan Wu,Kuan-Ching Li* ,
 *2023 International Symposium of Electronics Design Automation (ISEDA)*, *2023*
 ### [5]. Impact of gate-level clustering on automated system partitioning of 3D-ICs[[link]](https://www.semanticscholar.org/paper/644297edc648c0539054d3251369819ae5236bea)
-*Quentin Delhaye,E. Beyne,J. Goossens,G. V. D. Plas,D. Milojevic*
+*Quentin Delhaye,E. Beyne,J. Goossens,G. V. D. Plas,D. Milojevic* ,
 *ArXiv*, *2023*
 ### [6]. SpecPart: A Supervised Spectral Framework for Hypergraph Partitioning Solution Improvement[[link]](https://www.semanticscholar.org/paper/5a3ac47fda8351c199f6f7502432d317bc5b4514)
-*Ismail Bustany,A. Kahng,I. Koutis,Bodhisatta Pramanik,Zhiang Wang*
+*Ismail Bustany,A. Kahng,I. Koutis,Bodhisatta Pramanik,Zhiang Wang* ,
 *2022 IEEE/ACM International Conference On Computer Aided Design (ICCAD)*, *2022*
 ### [7]. Embedding Graph Auto-Encoder for Graph Clustering[[link]](https://www.semanticscholar.org/paper/57bc933e06ffbbccd68134e2e2f172c61f0e6566)
-*Hongyuan Zhang,Peibo Li,Rui Zhang,Xuelong Li*
+*Hongyuan Zhang,Peibo Li,Rui Zhang,Xuelong Li* ,
 *IEEE Transactions on Neural Networks and Learning Systems*, *2022*
 ### [8]. On Advancing Physical Design using Graph Neural Networks (Invited Paper)[[link]](https://www.semanticscholar.org/paper/803b4f02736160ad34ca8c8edb94a6a865cf01b1)
-*Yi-Chen Lu,S. Lim*
+*Yi-Chen Lu,S. Lim* ,
 *2022 IEEE/ACM International Conference On Computer Aided Design (ICCAD)*, *2022*
 ### [9]. A Comprehensive Survey on Electronic Design Automation and Graph Neural Networks: Theory and Applications[[link]](https://www.semanticscholar.org/paper/1d6639e27720046e0df0aefce0f98cedb546ea96)
-*Daniela Sánchez,Lorenzo Servadei,Gamze Naz Kiprit,R. Wille,W. Ecker*
+*Daniela Sánchez,Lorenzo Servadei,Gamze Naz Kiprit,R. Wille,W. Ecker* ,
 *ACM Transactions on Design Automation of Electronic Systems*, *2022*
 ### [10]. Placement Optimization via PPA-Directed Graph Clustering[[link]](https://www.semanticscholar.org/paper/d22d388cf05304c0267e244fa91cb2a35b28ad3c)
-*Yi-Chen Lu,Tian Yang,S. Lim,Haoxing Ren*
+*Yi-Chen Lu,Tian Yang,S. Lim,Haoxing Ren* ,
 *2022 ACM/IEEE 4th Workshop on Machine Learning for CAD (MLCAD)*, *2022*
 ### [11]. Entropy regularization for unsupervised clustering with adaptive neighbors[[link]](https://www.semanticscholar.org/paper/023b134b081d965b4a9aa683bc6497a3caf275b6)
-*Jingyu Wang,Zhenyu Ma,F. Nie,Xuelong Li*
+*Jingyu Wang,Zhenyu Ma,F. Nie,Xuelong Li* ,
 *Pattern Recognit.*, *2022*
 ### [12]. Simplifying Clustering with Graph Neural Networks[[link]](https://www.semanticscholar.org/paper/d8ac1d47be3bb24e1bd48f8c7ea8da7c1ff046d6)
-*F. Bianchi*
+*F. Bianchi* ,
 *ArXiv*, *2022*
 ### [13]. The Law of Attraction: Affinity-Aware Placement Optimization using Graph Neural Networks[[link]](https://www.semanticscholar.org/paper/e14de582be3aff967c344778ce16f6aab2abdd7a)
-*Yi-Chen Lu,S. Pentapati,S. Lim*
+*Yi-Chen Lu,S. Pentapati,S. Lim* ,
 *Proceedings of the 2021 International Symposium on Physical Design*, *2021*
 ### [14]. Finding placement-relevant clusters with fast modularity-based clustering[[link]](https://www.semanticscholar.org/paper/546088624f07ff6a275d2cc5e1525b2d50ea7eee)
-*Mateus Fogaça,A. Kahng,R. Reis,Lutong Wang*
+*Mateus Fogaça,A. Kahng,R. Reis,Lutong Wang* ,
 *Proceedings of the 24th Asia and South Pacific Design Automation Conference*, *2019*
 ### [15]. GAP: Generalizable Approximate Graph Partitioning Framework[[link]](https://www.semanticscholar.org/paper/7a97f20b55e37313545156b80920ef63fdc53e6b)
-*Azade Nazi,W. Hang,Anna Goldie,Sujith Ravi,Azalia Mirhoseini*
+*Azade Nazi,W. Hang,Anna Goldie,Sujith Ravi,Azalia Mirhoseini* ,
 *ArXiv*, *2019*
 ### [16]. CongestionNet: Routing Congestion Prediction Using Deep Graph Neural Networks[[link]](https://www.semanticscholar.org/paper/88d2fab574cd3693093c2bc110da9bab1c8b29c9)
-*Robert Kirby,Saad Godil,Rajarshi Roy,Bryan Catanzaro*
+*Robert Kirby,Saad Godil,Rajarshi Roy,Bryan Catanzaro* ,
 *2019 IFIP/IEEE 27th International Conference on Very Large Scale Integration (VLSI-SoC)*, *2019*
 ### [17]. Variational Graph Auto-Encoders[[link]](https://www.semanticscholar.org/paper/54906484f42e871f7c47bbfe784a358b1448231f)
-*Thomas Kipf,M. Welling*
+*Thomas Kipf,M. Welling* ,
 *ArXiv*, *2016*
 ### [18]. Unsupervised Deep Embedding for Clustering Analysis[[link]](https://www.semanticscholar.org/paper/f44ff4fc0ed0142cb18472a5ba421bb538aa837e)
-*Junyuan Xie,Ross B. Girshick,Ali Farhadi*
+*Junyuan Xie,Ross B. Girshick,Ali Farhadi* ,
 *International Conference on Machine Learning*, *2015*
 ### [19]. Fast unfolding of communities in large networks[[link]](https://www.semanticscholar.org/paper/274a4b1b7ef7811c5cbf9a2127b7dbd21244122a)
-*V. Blondel,Jean-Loup Guillaume,R. Lambiotte,E. Lefebvre*
+*V. Blondel,Jean-Loup Guillaume,R. Lambiotte,E. Lefebvre* ,
 *Journal of Statistical Mechanics: Theory and Experiment*, *2008*
 ### [20]. Recursive bi-partitioning of netlists for large number of partitions[[link]](https://www.semanticscholar.org/paper/c3e52af05291110484f5310a9fcb247391125ad2)
-*R. Drechsler,Wolfgang Günther,T. Eschbach,Lothar Linhard,Gerhard Angst*
+*R. Drechsler,Wolfgang Günther,T. Eschbach,Lothar Linhard,Gerhard Angst* ,
 *Proceedings Euromicro Symposium on Digital System Design. Architectures, Methods and Tools*, *2002*
 
 
